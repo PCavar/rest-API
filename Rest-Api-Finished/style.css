@@ -1,0 +1,36 @@
+body {
+    margin: 0 auto;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    border: 1px solid lightblue;
+    height: 10em;
+    text-align: center;
+}
+
+button {
+    font-size: 1em;
+    border-radius: 0.5em;
+    background-color: lightblue;
+    margin-top: 3em;
+}
+
+input {
+    width: 15em;
+}
+
+img {
+    width: 50em;
+}
+
+p {
+    font-size: 5em;
+    text-align: center;
+    color: lightblue;
+}
